@@ -12,6 +12,8 @@ namespace ditIsEenConsoleTest
         {
             Console.WriteLine("Dit is een test.");
             Console.ReadLine();
+            Console.WriteLine("Dit is een toevoeging.");
+            Console.ReadLine();
         }
     }
 }
