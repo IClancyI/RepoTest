@@ -10,6 +10,8 @@ namespace ditIsEenConsoleTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dit is een test.");
+            Console.ReadLine();
         }
     }
 }
